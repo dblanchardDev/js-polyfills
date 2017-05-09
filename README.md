@@ -1,10 +1,7 @@
-# web-polyfills
-Various web polyfills created for various projects I have worked on.
-
 ### web-polyfills
 ## Web Polyfills
 
-These are various polyfills for various web site projects I have worked on. They were generally created when very specific browsers, or behaviours were expected and no other publicly available polyfill could be used.
+These are various polyfills for various web site projects I have worked on. They were generally created when very specific browsers were targeted, or behaviours were expected and no other available polyfill could be used.
 
 ### Polyfills
 #### simple/RadioNodeList.js
